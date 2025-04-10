@@ -132,7 +132,5 @@ function blinkButton(button, color) {
 }
 
 function restartGame() {
-  currentQuestion = 0;
-  score = 0;
-  showQuestion();
+  location.reload();
 }
