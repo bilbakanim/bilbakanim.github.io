@@ -1,0 +1,200 @@
+[
+  {
+    "image": "assets/images/money.jpg",
+    "correct": "Hazine ve Maliye Bakanı",
+    "choices": [
+      "Adalet Bakanı",
+      "Sanayi ve Teknoloji Bakanı",
+      "Hazine ve Maliye Bakanı",
+      "Gençlik ve Spor Bakanı",
+      "Millî Eğitim Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/egitim.jpg",
+    "correct": "Millî Eğitim Bakanı",
+    "choices": [
+      "Çalışma ve Sosyal Güvenlik Bakanı",
+      "Sağlık Bakanı",
+      "Sanayi ve Teknoloji Bakanı",
+      "Gençlik ve Spor Bakanı",
+      "Millî Eğitim Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/cshr_2.jpg",
+    "correct": "Çevre Şehircilik ve İklim Değişikliği Bakanı",
+    "choices": [
+      "Çevre Şehircilik ve İklim Değişikliği Bakanı",
+      "Aile ve Sosyal Hizmetler Bakanı",
+      "Çalışma ve Sosyal Güvenlik Bakanı",
+      "Sağlık Bakanı",
+      "Sanayi ve Teknoloji Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/ic.jpg",
+    "correct": "İçişleri Bakanı",
+    "choices": [
+      "Sağlık Bakanı",
+      "Tarım ve Orman Bakanı",
+      "Millî Eğitim Bakanı",
+      "İçişleri Bakanı",
+      "Sanayi ve Teknoloji Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/cs_1.jpg",
+    "correct": "Çalışma ve Sosyal Güvenlik Bakanı",
+    "choices": [
+      "Dışişleri Bakanı",
+      "Enerji ve Tabii Kaynaklar Bakanı",
+      "Tarım ve Orman Bakanı",
+      "Hazine ve Maliye Bakanı",
+      "Çalışma ve Sosyal Güvenlik Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/di.png",
+    "correct": "Dışişleri Bakanı",
+    "choices": [
+      "Dışişleri Bakanı",
+      "Ulaştırma ve Altyapı Bakanı",
+      "Çalışma ve Sosyal Güvenlik Bakanı",
+      "İçişleri Bakanı",
+      "Sağlık Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/tarim.jpg",
+    "correct": "Tarım ve Orman Bakanı",
+    "choices": [
+      "Sanayi ve Teknoloji Bakanı",
+      "Adalet Bakanı",
+      "Tarım ve Orman Bakanı",
+      "Kültür ve Turizm Bakanı",
+      "Çalışma ve Sosyal Güvenlik Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/saglik.jpg",
+    "correct": "Sağlık Bakanı",
+    "choices": [
+      "Gençlik ve Spor Bakanı",
+      "Millî Savunma Bakanı",
+      "Hazine ve Maliye Bakanı",
+      "Sağlık Bakanı",
+      "Sanayi ve Teknoloji Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/enerci.jpg",
+    "correct": "Enerji ve Tabii Kaynaklar Bakanı",
+    "choices": [
+      "Ulaştırma ve Altyapı Bakanı",
+      "Gençlik ve Spor Bakanı",
+      "Enerji ve Tabii Kaynaklar Bakanı",
+      "Kültür ve Turizm Bakanı",
+      "Çevre Şehircilik ve İklim Değişikliği Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/as_2.jpg",
+    "correct": "Aile ve Sosyal Hizmetler Bakanı",
+    "choices": [
+      "Tarım ve Orman Bakanı",
+      "Enerji ve Tabii Kaynaklar Bakanı",
+      "Aile ve Sosyal Hizmetler Bakanı",
+      "Sağlık Bakanı",
+      "Kültür ve Turizm Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/trader.jpg",
+    "correct": "Ticaret Bakanı",
+    "choices": [
+      "Tarım ve Orman Bakanı",
+      "Enerji ve Tabii Kaynaklar Bakanı",
+      "Sağlık Bakanı",
+      "Kültür ve Turizm Bakanı",
+      "Ticaret Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/ab_2.png",
+    "correct": "Adalet Bakanı",
+    "choices": [
+      "İçişleri Bakanı",
+      "Millî Savunma Bakanı",
+      "Adalet Bakanı",
+      "Sağlık Bakanı",
+      "Çevre Şehircilik ve İklim Değişikliği Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/connection.jpg",
+    "correct": "Ulaştırma ve Altyapı Bakanı",
+    "choices": [
+      "Sanayi ve Teknoloji Bakanı",
+      "Tarım ve Orman Bakanı",
+      "Çalışma ve Sosyal Güvenlik Bakanı",
+      "Ulaştırma ve Altyapı Bakanı",
+      "Sağlık Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/sanayi.jpg",
+    "correct": "Sanayi ve Teknoloji Bakanı",
+    "choices": [
+      "Ticaret Bakanı",
+      "Kültür ve Turizm Bakanı",
+      "Ulaştırma ve Altyapı Bakanı",
+      "Sanayi ve Teknoloji Bakanı",
+      "Hazine ve Maliye Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/spor.jpg",
+    "correct": "Gençlik ve Spor Bakanı",
+    "choices": [
+      "Kültür ve Turizm Bakanı",
+      "Hazine ve Maliye Bakanı",
+      "Millî Eğitim Bakanı",
+      "Çalışma ve Sosyal Güvenlik Bakanı",
+      "Gençlik ve Spor Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/defans.jpg",
+    "correct": "Millî Savunma Bakanı",
+    "choices": [
+      "Enerji ve Tabii Kaynaklar Bakanı",
+      "Millî Savunma Bakanı",
+      "Tarım ve Orman Bakanı",
+      "Adalet Bakanı",
+      "İçişleri Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/kultur.jpg",
+    "correct": "Kültür ve Turizm Bakanı",
+    "choices": [
+      "Tarım ve Orman Bakanı",
+      "Aile ve Sosyal Hizmetler Bakanı",
+      "Kültür ve Turizm Bakanı",
+      "Millî Savunma Bakanı",
+      "Millî Eğitim Bakanı"
+    ]
+  },
+  {
+    "image": "assets/images/father.jpg",
+    "correct": "Türkiye Cumhuriyeti Cumhurbaşkanı",
+    "choices": [
+      "Türkiye Cumhuriyeti Cumhurbaşkanı",
+      "Türkiye Cumhuriyeti Cumhurbaşkanı",
+      "Türkiye Cumhuriyeti Cumhurbaşkanı",
+      "Türkiye Cumhuriyeti Cumhurbaşkanı",
+      "Türkiye Cumhuriyeti Cumhurbaşkanı"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bakanlık Tahmin Oyunu</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+
+    <!-- Başlangıç ekranı -->
+    <div id="start-screen">
+      <h1>Bakanlık Tahmin Oyunu</h1>
+      <p>18 soruda hangi fotoğrafın hangi bakanlığa ait olduğunu tahmin edebilir misin?</p>
+      <button onclick="startGame()">Başla</button>
+    </div>
+
+    <!-- Oyun ekranı -->
+    <div id="game" style="display: none;">
+      <div id="progress-container">
+        <div id="progress-text">1/25</div>
+        <div id="progress-bar">
+          <div id="progress-fill"></div>
+        </div>
+      </div>
+
+      <img id="question-image" src="" width="114px" height="139px" alt="Bakan Görseli" />
+      <div id="choices"></div>
+      <div id="score"></div>
+	  <div id="feedback">Cevap yanlış!</div>
+
+    </div>
+
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
