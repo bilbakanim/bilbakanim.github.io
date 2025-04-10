@@ -85,7 +85,7 @@ function showQuestion() {
 	  const correctButton = [...allButtons].find(b => b.textContent === q.correct);
 
 	  if (choice === q.correct) {
-		score += 100 / (totalQuestions + 1);
+		score += 100 / totalQuestions;
 		blinkButton(correctButton, "#28a745");
 		feedback.style.display = "none";
 		setTimeout(() => {
