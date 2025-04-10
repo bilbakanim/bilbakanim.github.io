@@ -18,8 +18,7 @@ function startGame() {
 
 function showQuestion() {
   if (currentQuestion >= questions.length) {
-	  const maxScore = questions.length * 4;
-	  const percentage = Math.round((score / maxScore) * 100);
+	  const percentage = Math.round(score);
 
 	  let title = "";
 	  let message = "";
@@ -47,8 +46,7 @@ function showQuestion() {
 
 	  document.getElementById("game").innerHTML = `
 	  <h2>Oyun Bitti!</h2>
-	  <p>Skorun: <strong>${score}</strong> / ${maxScore}</p>
-	  <p>Yüzdelik başarı: <strong>${percentage}%</strong></p>
+	  <p>Skorun: <strong>${score}</strong>%</p>
 	  <p class="result-title">${title}</p>
 	  <p class="result-message">${message}</p>
 	  <button onclick="restartGame()">Tekrar Dene</button>
